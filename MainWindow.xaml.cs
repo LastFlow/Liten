@@ -16,6 +16,7 @@ namespace Liten
         {
             //browser props
 
+
             var settings = new CefSettings();
             //settings software acceleration
             settings.CefCommandLineArgs.Add("enable-gpu", "1");
