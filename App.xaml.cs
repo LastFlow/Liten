@@ -15,7 +15,7 @@ namespace Liten
     {
         void Att(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Вниманье", "Оптимизации онли софтверные в этой версии");
+        
         }
     }
 }
